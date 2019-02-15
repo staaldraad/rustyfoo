@@ -4,4 +4,4 @@ version = "0.1.0"
 authors = ["root"]
 
 [dependencies]
-bark = { git = "file:///tmp/%25..%25somerepo" }
+bark = { git = "file:///tmp/%2525..%2525somerepo" }
