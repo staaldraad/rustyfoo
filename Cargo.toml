@@ -1,0 +1,7 @@
+[package]
+name = "foo"
+version = "0.1.0"
+authors = ["root"]
+
+[dependencies]
+bark = { git = "git@x.com/pew", branch = "--upload-pack=/tmp/xyz" }
